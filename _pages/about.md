@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: NASA Postdoctoral Program (NPP) Research Fellow
 
 profile:
   align: right
   image: prof_pic2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Langley Research Center</p>
+    <p>1 Nasa Dr</p>
+    <p>Hampton, VA 23666</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Mary Angelique Demetillo recently earned her Ph.D. in environmental sciences with a focus on atmospheric chemistry from the University of Virginia. In her dissertation titled, [“Observing air pollution variability with climate change and environmental injustice,”](https://libraetd.lib.virginia.edu/public_view/rn301247v) Angelique integrated socio-demographic information with remote-sensing observations onboard aircraft and satellites to understand the spatiotemporal variability of nitrogen dioxide (NO2) air pollution within cities, assess the ability of next-generation satellite observations to resolve inequalities at the neighborhood-level, and identify drivers of NO2 inequalities across US cities. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, she works in the Chemistry and Dynamics Branch of the Science Directorate investigating the surface and near-surface representativity of widely-anticipated near-surface ozone (O3) product from NASA’s recently-launched Tropospheric Emissions: Monitoring of POllution (TEMPO) space-based sensor and contributing to airborne science research campaigns focused on atmospheric composition and trace gas spatiotemporal variability in major cities. Alongside her research career, she continues to serve on executive and leadership teams driving initiatives to increase visibility, representation, and support for under-represented minorities in the atmospheric sciences.
